@@ -1,3 +1,5 @@
+# Create virtual data points for detailed visualization. 
+
 class CoolingSetpointScheduleType(GeneratedsSuper):
     """Cooling setpoint schedule [degrees F] The value must be a comma-
     separated list of hourly values (24 numbers) or weekday/weekend
